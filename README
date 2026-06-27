@@ -1,0 +1,21 @@
+# Web Traffic Analytics
+
+## Objective
+Analyze website traffic to understand visitor behavior and improve engagement.
+
+## Features
+- Page View Analysis
+- Session Duration Analysis
+- Bounce Rate Analysis
+- Traffic Source Analysis
+- User Journey Insights
+
+## Technologies
+- Python
+- Pandas
+- Matplotlib
+
+## Output
+- Traffic Statistics
+- Data Visualizations
+- Business Insights
